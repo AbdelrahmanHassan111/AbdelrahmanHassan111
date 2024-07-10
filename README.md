@@ -24,8 +24,8 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-### Cloud Computing and DevOps 
-- ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws) ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud)
+### Cloud Computing and MLOps 
+- ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws) ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure) 
 
 ### Embedded Systems and IoT
 - ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat&logo=Raspberry-Pi) ![IoT](https://img.shields.io/badge/-IoT-05122A?style=flat&logo=iot)
