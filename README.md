@@ -1,8 +1,9 @@
-<img width="250" align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhraGdjbDhjOWJyb2hucGd3YmJ2ZTNpOGdhdDdvbnJtZmhlNmtlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img width="250" align="right" src="https://gifdb.com/images/high/ai-pink-brain-lighting-up-e40hul85xvay2ve2.gif">
+
 
 
 <h3 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=1000&pause=50&color=225DF7&multiline=true&random=false&width=440&height=132&lines=Welcome+to+my+profile+!;+;I'm+Abdelrahman+Hassan;+;Artificial+Intelligence+Engineer" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=1000&pause=50&color=cf9bbf&multiline=true&random=false&width=440&height=132&lines=Welcome+to+my+profile+!;+;I'm+Abdelrahman+Hassan;+;Artificial+Intelligence+Engineer" alt="Typing SVG" /></a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
