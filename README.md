@@ -9,8 +9,9 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  
-- 🏢 I'm a Machine Learning Engineer intern at SMSM AI
+
+- 🏥 AI Research student in the medical domain
+- 🏢 Former Machine Learning Engineer intern at SMSM AI
   
 - 👨‍💻 As an AI Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
 
@@ -41,7 +42,7 @@
 - ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter) ![NLTK](https://img.shields.io/badge/-NLTK-05122A?style=flat&logo=nltk) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib) ![Spacy](https://img.shields.io/badge/-Spacy-05122A?style=flat&logo=spacy) ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy) ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv) ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas) ![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-05122A?style=flat) ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn) ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-05122A?style=flat)
 
 ### Programming Languages and Tools
-- ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B) ![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B) ![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
 
