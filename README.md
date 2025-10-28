@@ -5,7 +5,7 @@
 
 
 <!-- Advanced Matrix Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2000&pause=1000&color=6161F7FF&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=270&lines=%3E+Welcome+to+the+AI+Matrix...;%3E+Abdelrahman+Hassan+-+AI+Researcher;%3E+Loading+AI+Engineer+Profile...;%3E+%F0%9F%A7%A0+Medical+AI+Specialist+%7C+95.85%25+Accuracy;%3E+%F0%9F%A4%96+LLM+Expert+%40+Outlier+AI;%3E+%F0%9F%93%9A+Published+IEEE+Researcher;%3E+Ready+for+Collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2000&pause=1000&color=6161F7FF&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=270&lines=%3E+Welcome+to+the+AI+Matrix...;%3E+Abdelrahman+Hassan+-+AI+Researcher;%3E+Loading+AI+Engineer+Profile...;%3E+%F0%9F%A7%A0+Medical+AI+Specialist+%7C+95.85%25+Accuracy;%3E+%F0%9F%A4%96+LLM+Trainer+%40+Outlier+AI;%3E+%F0%9F%93%9A+Published+IEEE+Researcher;%3E+Ready+for+Collaboration)](https://git.io/typing-svg)
 
 
 
