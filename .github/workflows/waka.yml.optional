@@ -1,0 +1,25 @@
+## OPTIONAL — only add this file if you create a WakaTime account (wakatime.com) and
+## install its editor plugin so it actually has coding-time data to report.
+## Rename this file to `waka.yml` (remove the .optional) once you've done that,
+## and add a WAKATIME_API_KEY repo secret (see SETUP.md, step 6).
+
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_LANGUAGE: "True"
+          SHOW_OS: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_EDITORS: "True"
