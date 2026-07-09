@@ -1,21 +1,21 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#010202"/>
-      <stop offset="55%" stop-color="#0D1119"/>
+      <stop offset="0%" stop-color="#101616"/>
+      <stop offset="55%" stop-color="#11291C"/>
       <stop offset="100%" stop-color="#210706"/>
     </linearGradient>
     <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#930302" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#930302" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#930302" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#AA662D" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#AA662D" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#AA662D" stop-opacity="0"/>
     </linearGradient>
     <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="5" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <style>
-      .grid { stroke:#5D5042; stroke-opacity:0.14; }
+      .grid { stroke:#3E475D; stroke-opacity:0.14; }
       .beam { animation: sweep 7s linear infinite; }
       @keyframes sweep { 0% { transform: translateX(-320px); } 100% { transform: translateX(1500px); } }
       .fadein { opacity: 0; animation: fadeIn 1s ease-out forwards; }
@@ -23,9 +23,9 @@
       @keyframes fadeIn { from { opacity:0; transform: translateY(8px);} to { opacity:1; transform: translateY(0);} }
       .pulse { animation: pulse 2.2s ease-in-out infinite; }
       @keyframes pulse { 0%,100% { opacity:1; } 50% { opacity:.35; } }
-      .title { font-family:'JetBrains Mono','Courier New',monospace; font-weight:700; fill:#E6DBC9; letter-spacing:3px; }
-      .subtitle { font-family:'JetBrains Mono','Courier New',monospace; fill:#5D5042; letter-spacing:2px; }
-      .tag { font-family:'JetBrains Mono','Courier New',monospace; fill:#930302; letter-spacing:2px; }
+      .title { font-family:'JetBrains Mono','Courier New',monospace; font-weight:700; fill:#D38B4C; letter-spacing:3px; }
+      .subtitle { font-family:'JetBrains Mono','Courier New',monospace; fill:#3E475D; letter-spacing:2px; }
+      .tag { font-family:'JetBrains Mono','Courier New',monospace; fill:#AA662D; letter-spacing:2px; }
     </style>
   </defs>
 
@@ -44,14 +44,14 @@
 
   <rect class="beam" x="-320" y="0" width="260" height="300" fill="url(#glow)"/>
 
-  <circle class="pulse" cx="62" cy="54" r="5" fill="#930302"/>
+  <circle class="pulse" cx="62" cy="54" r="5" fill="#AA662D"/>
   <text x="80" y="59" class="tag" font-size="13">OPEN FOR RESEARCH &amp; MLOPS COLLABS</text>
 
   <text x="60" y="168" class="title fadein d1" font-size="56" filter="url(#softGlow)">ABDELRAHMAN HASSAN</text>
 
   <text x="62" y="206" class="subtitle fadein d2" font-size="19">AI RESEARCHER &#183; MLOPS ENGINEER &#183; FULL-STACK &amp; MOBILE BUILDER</text>
 
-  <text x="62" y="240" class="subtitle fadein d3" font-size="13" fill="#5D5042">IEEE PUBLISHED AUTHOR &#215; 2 &#8212; CAIRO, EGYPT</text>
+  <text x="62" y="240" class="subtitle fadein d3" font-size="13" fill="#3E475D">IEEE PUBLISHED AUTHOR &#215; 2 &#8212; CAIRO, EGYPT</text>
 
-  <line x1="62" y1="254" x2="430" y2="254" stroke="#930302" stroke-width="2" class="fadein d4"/>
+  <line x1="62" y1="254" x2="430" y2="254" stroke="#AA662D" stroke-width="2" class="fadein d4"/>
 </svg>

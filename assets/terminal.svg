@@ -1,16 +1,16 @@
-<svg width="800" height="460" viewBox="0 0 800 460" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1100" height="620" viewBox="0 0 1100 620" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      .win { fill:#0D1119; stroke:#5D5042; stroke-width:1.2; }
-      .bar { fill:#010202; }
-      .dot1 { fill:#930302; } .dot2 { fill:#5D5042; } .dot3 { fill:#E6DBC9; }
-      .title { font-family:'JetBrains Mono','Courier New',monospace; fill:#5D5042; font-size:12px; letter-spacing:1px; }
-      .prompt { font-family:'JetBrains Mono','Courier New',monospace; fill:#930302; font-size:14px; }
-      .out { font-family:'JetBrains Mono','Courier New',monospace; fill:#E6DBC9; font-size:14px; }
-      .comment { font-family:'JetBrains Mono','Courier New',monospace; fill:#5D5042; font-size:13px; }
-      .ok { font-family:'JetBrains Mono','Courier New',monospace; fill:#930302; font-size:13px; }
+      .win { fill:#11291C; stroke:#3E475D; stroke-width:1.5; }
+      .bar { fill:#101616; }
+      .dot1 { fill:#AA662D; } .dot2 { fill:#3E475D; } .dot3 { fill:#D38B4C; }
+      .title { font-family:'JetBrains Mono','Courier New',monospace; fill:#3E475D; font-size:16px; letter-spacing:1px; }
+      .prompt { font-family:'JetBrains Mono','Courier New',monospace; fill:#AA662D; font-size:20px; }
+      .out { font-family:'JetBrains Mono','Courier New',monospace; fill:#D38B4C; font-size:20px; }
+      .comment { font-family:'JetBrains Mono','Courier New',monospace; fill:#3E475D; font-size:18px; }
+      .ok { font-family:'JetBrains Mono','Courier New',monospace; fill:#AA662D; font-size:18px; }
       .line { opacity:0; animation: reveal .6s ease-out forwards; }
-      @keyframes reveal { from { opacity:0; transform: translateX(-6px);} to { opacity:1; transform: translateX(0);} }
+      @keyframes reveal { from { opacity:0; transform: translateX(-8px);} to { opacity:1; transform: translateX(0);} }
       .l1{animation-delay:.1s;} .l2{animation-delay:.4s;} .l3{animation-delay:.9s;} .l4{animation-delay:1.2s;}
       .l5{animation-delay:1.5s;} .l6{animation-delay:1.9s;} .l7{animation-delay:2.2s;} .l8{animation-delay:2.5s;}
       .l9{animation-delay:2.8s;} .l10{animation-delay:3.1s;} .l11{animation-delay:3.4s;} .l12{animation-delay:3.8s;}
@@ -19,31 +19,31 @@
     </style>
   </defs>
 
-  <rect class="win" x="4" y="4" width="792" height="452" rx="10"/>
-  <path class="bar" d="M4 14 Q4 4 14 4 H786 Q796 4 796 14 V38 H4 Z"/>
-  <circle class="dot1" cx="26" cy="21" r="5"/>
-  <circle class="dot2" cx="44" cy="21" r="5"/>
-  <circle class="dot3" cx="62" cy="21" r="5"/>
-  <text x="400" y="25" text-anchor="middle" class="title">guest@abdelrahman-hassan:~</text>
+  <rect class="win" x="6" y="6" width="1088" height="608" rx="14"/>
+  <path class="bar" d="M6 20 Q6 6 20 6 H1080 Q1094 6 1094 20 V52 H6 Z"/>
+  <circle class="dot1" cx="38" cy="29" r="7"/>
+  <circle class="dot2" cx="64" cy="29" r="7"/>
+  <circle class="dot3" cx="90" cy="29" r="7"/>
+  <text x="550" y="34" text-anchor="middle" class="title">guest@abdelrahman-hassan:~</text>
 
-  <g font-size="14">
-    <text x="26" y="70"  class="line l1"><tspan class="prompt">$ </tspan><tspan class="out">whoami</tspan></text>
-    <text x="26" y="94"  class="line l2 out">&gt; Abdelrahman Hassan &#8212; AI Researcher &amp; MLOps Engineer</text>
+  <g>
+    <text x="36" y="100" class="line l1"><tspan class="prompt">$ </tspan><tspan class="out">whoami</tspan></text>
+    <text x="36" y="134" class="line l2 out">&gt; Abdelrahman Hassan &#8212; AI Researcher &amp; MLOps Engineer</text>
 
-    <text x="26" y="128" class="line l3"><tspan class="prompt">$ </tspan><tspan class="out">cat focus.txt</tspan></text>
-    <text x="26" y="152" class="line l4 out">&gt; Explainable AI &#183; LLM Evaluation &#183; Production ML Systems</text>
-    <text x="26" y="174" class="line l4 out">&gt; Cross-platform apps (Flutter / Kotlin / Android)</text>
+    <text x="36" y="182" class="line l3"><tspan class="prompt">$ </tspan><tspan class="out">cat focus.txt</tspan></text>
+    <text x="36" y="216" class="line l4 out">&gt; Explainable AI &#183; LLM Evaluation &#183; Production ML Systems</text>
+    <text x="36" y="246" class="line l4 out">&gt; Cross-platform apps (Flutter / Kotlin / Android)</text>
 
-    <text x="26" y="208" class="line l5"><tspan class="prompt">$ </tspan><tspan class="out">ls research/</tspan></text>
-    <text x="26" y="230" class="line l6 comment">IEEE_IMCOM_2025_Ensemble.pdf   IEEE_IMCOM_2026_MultiTask.pdf</text>
+    <text x="36" y="294" class="line l5"><tspan class="prompt">$ </tspan><tspan class="out">ls research/</tspan></text>
+    <text x="36" y="326" class="line l6 comment">IEEE_IMCOM_2025_Ensemble.pdf   IEEE_IMCOM_2026_MultiTask.pdf</text>
 
-    <text x="26" y="264" class="line l7"><tspan class="prompt">$ </tspan><tspan class="out">./deploy.sh --status</tspan></text>
-    <text x="26" y="286" class="line l8"><tspan class="ok">[OK]</tspan><tspan class="out"> Clarivera &#8212; AI Educational Hub          (RAG + LMS sync)</tspan></text>
-    <text x="26" y="306" class="line l9"><tspan class="ok">[OK]</tspan><tspan class="out"> CLINEXA   &#8212; Diagnosis Platform          (XGBoost + SWIN)</tspan></text>
-    <text x="26" y="326" class="line l10"><tspan class="ok">[OK]</tspan><tspan class="out"> SageAI    &#8212; Retrieval-Augmented Search  (FAISS + CUDA)</tspan></text>
-    <text x="26" y="346" class="line l11"><tspan class="ok">[OK]</tspan><tspan class="out"> EdgeAI    &#8212; Real-time Detection          (ESP32-CAM)</tspan></text>
+    <text x="36" y="374" class="line l7"><tspan class="prompt">$ </tspan><tspan class="out">./deploy.sh --status</tspan></text>
+    <text x="36" y="406"><tspan class="line l8 ok">[OK]</tspan><tspan class="line l8 out"> Clarivera &#8212; AI Study Hub          (RAG + LMS sync)</tspan></text>
+    <text x="36" y="436"><tspan class="line l9 ok">[OK]</tspan><tspan class="line l9 out"> CLINEXA   &#8212; Diagnosis Platform    (XGBoost + SWIN)</tspan></text>
+    <text x="36" y="466"><tspan class="line l10 ok">[OK]</tspan><tspan class="line l10 out"> SageAI    &#8212; Medical RAG Search    (FAISS + CUDA)</tspan></text>
+    <text x="36" y="496"><tspan class="line l11 ok">[OK]</tspan><tspan class="line l11 out"> EdgeAI    &#8212; Real-time Detection   (ESP32-CAM)</tspan></text>
 
-    <text x="26" y="382" class="line l12"><tspan class="prompt">$ </tspan><tspan class="out">echo $STATUS</tspan></text>
-    <text x="26" y="406" class="line l12 out">&gt; Open to AI research collabs &amp; MLOps roles <tspan class="cursor">_</tspan></text>
+    <text x="36" y="546" class="line l12"><tspan class="prompt">$ </tspan><tspan class="out">echo $STATUS</tspan></text>
+    <text x="36" y="580" class="line l12 out">&gt; Open to AI research collabs &amp; MLOps roles <tspan class="cursor">_</tspan></text>
   </g>
 </svg>
