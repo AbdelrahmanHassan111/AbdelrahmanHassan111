@@ -15,6 +15,7 @@
   <a href="https://linkedin.com/in/abdelrahman-hassan1"><img src="https://img.shields.io/badge/LinkedIn-11291C?style=for-the-badge&logo=linkedin&logoColor=D38B4C"/></a>
   <a href="mailto:abdelrahman.h004@gmail.com"><img src="https://img.shields.io/badge/Email-11291C?style=for-the-badge&logo=gmail&logoColor=D38B4C"/></a>
   <a href="https://abdelrahman.manus.space"><img src="https://img.shields.io/badge/Portfolio-AA662D?style=for-the-badge&logo=vercel&logoColor=D38B4C"/></a>
+  <a href="https://scholar.google.com/citations?user=mwUR8CUAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-3E475D?style=for-the-badge&logo=googlescholar&logoColor=D38B4C"/></a>
   <a href="https://t.me/abderlahman_hassan"><img src="https://img.shields.io/badge/Telegram-11291C?style=for-the-badge&logo=telegram&logoColor=D38B4C"/></a>
 </p>
 
