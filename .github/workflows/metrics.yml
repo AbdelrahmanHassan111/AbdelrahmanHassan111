@@ -19,10 +19,14 @@ jobs:
           template: classic
           base: "header, activity, community, repositories, metadata"
           config_timezone: Africa/Cairo
-          config_display: compact
 
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_limit: 8
 
           plugin_calendar: yes
+
+          # Safe additions, none of these touch the broken achievements/habits code paths
+          plugin_lines: yes
+          plugin_stars: yes
+          plugin_stars_limit: 6
