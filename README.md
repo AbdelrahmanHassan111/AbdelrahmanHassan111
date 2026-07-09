@@ -15,7 +15,6 @@
   <a href="https://linkedin.com/in/abdelrahman-hassan1"><img src="https://img.shields.io/badge/LinkedIn-11291C?style=for-the-badge&logo=linkedin&logoColor=D38B4C"/></a>
   <a href="mailto:abdelrahman.h004@gmail.com"><img src="https://img.shields.io/badge/Email-11291C?style=for-the-badge&logo=gmail&logoColor=D38B4C"/></a>
   <a href="https://abdelrahman.manus.space"><img src="https://img.shields.io/badge/Portfolio-AA662D?style=for-the-badge&logo=vercel&logoColor=D38B4C"/></a>
-  <a href="https://scholar.google.com/citations?user=mwUR8CUAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-3E475D?style=for-the-badge&logo=googlescholar&logoColor=D38B4C"/></a>
   <a href="https://t.me/abderlahman_hassan"><img src="https://img.shields.io/badge/Telegram-11291C?style=for-the-badge&logo=telegram&logoColor=D38B4C"/></a>
 </p>
 
@@ -25,12 +24,12 @@
 
 ## About Me
 
-I'm an AI Engineering student at **Galala University** who builds end-to-end AI systems — from peer-reviewed research to production deployments. Two IEEE papers on explainable deep learning, ML pipelines serving real users, MLOps infrastructure that keeps them running, and mobile apps on top of all of it.
+I'm a Senior AI Engineering student at **Galala University** who builds end-to-end AI systems, from peer-reviewed research to production deployments. Two IEEE papers on explainable deep learning, ML pipelines serving real users, MLOps infrastructure that keeps them running, and mobile apps on top of all of it.
 
-I care about systems that are **interpretable**, not just accurate — every model I've shipped has had a Grad-CAM, SHAP, or LLM-justification layer explaining *why*, not just *what*.
+I care about systems that are **interpretable**, not just accurate. Every model I've shipped has had a Grad-CAM, SHAP, or LLM-justification layer explaining *why*, not just *what*.
 
 **Right now:**
-- 🔭 Building **Clarivera** — an AI-native study hub with RAG-based tutoring
+- 🔭 Building **Clarivera**, an AI-native study hub with RAG-based tutoring
 - 🧪 Researching multi-task learning + LLM-based explanation generation
 - 📱 Expanding into native Android (Kotlin) and Flutter
 - 🤝 Open to AI research collaborations and MLOps/ML engineering roles
@@ -142,7 +141,7 @@ I care about systems that are **interpretable**, not just accurate — every mod
 ## Research & Publications
 
 <details open>
-<summary><b>Explainable Acne Severity Assessment via Ensemble Multi-Task Deep Learning and LLM Justification</b> — IEEE IMCOM 2026</summary>
+<summary><b>Explainable Acne Severity Assessment via Ensemble Multi-Task Deep Learning and LLM Justification</b> (IEEE IMCOM 2026)</summary>
 <br/>
 
 `DOI: 10.1109/IMCOM69009.2026.11360942` · Funded by NRF & Ministry of Science and ICT, Korea
@@ -152,7 +151,7 @@ Multi-task CNN with Grad-CAM and ROI analysis, paired with an LLM-generated natu
 </details>
 
 <details>
-<summary><b>End-to-End Optimized Ensemble Model for Alzheimer's Disease Detection</b> — IEEE IMCOM 2025</summary>
+<summary><b>End-to-End Optimized Ensemble Model for Alzheimer's Disease Detection</b> (IEEE IMCOM 2025)</summary>
 <br/>
 
 `DOI: 10.1109/IMCOM64595.2025.10857489` · Funded by NRF & Ministry of Science and ICT, Korea
@@ -166,7 +165,7 @@ Gradient Boosting ensemble with automated hyperparameter search on multimodal da
 ## Featured Projects
 
 <details open>
-<summary><b>🎓 Clarivera — AI-Powered Study Hub</b> &nbsp; <code>React</code> <code>TypeScript</code> <code>Docker</code> <code>PostgreSQL</code> <code>GCP/Azure</code> <code>LLMs</code></summary>
+<summary><b>🎓 Clarivera, AI-Powered Study Hub</b> &nbsp; <code>React</code> <code>TypeScript</code> <code>Docker</code> <code>PostgreSQL</code> <code>GCP/Azure</code> <code>LLMs</code></summary>
 <br/>
 
 - Engineered an intelligent LMS aggregator with OAuth SSO (Google & Microsoft) that securely syncs live Canvas API data into a centralized, highly-available PostgreSQL backend.
@@ -176,7 +175,7 @@ Gradient Boosting ensemble with automated hyperparameter search on multimodal da
 </details>
 
 <details>
-<summary><b>🏥 Clinexa — AI-Powered Clinical Diagnosis Platform</b> &nbsp; <code>Python</code> <code>XGBoost</code> <code>ResNet50</code> <code>SWIN</code> <code>AWS</code> <code>Docker</code></summary>
+<summary><b>🏥 Clinexa, AI-Powered Clinical Diagnosis Platform</b> &nbsp; <code>Python</code> <code>XGBoost</code> <code>ResNet50</code> <code>SWIN</code> <code>AWS</code> <code>Docker</code></summary>
 <br/>
 
 - Comprehensive, end-to-end platform for Alzheimer's diagnosis and patient management: medical professionals analyze MRI scans via custom AI models, review clinical indicators, and receive AI-generated consultation support.
@@ -186,10 +185,10 @@ Gradient Boosting ensemble with automated hyperparameter search on multimodal da
 </details>
 
 <details>
-<summary><b>🧬 SERA AI — Privacy-First Genetics Analysis</b> &nbsp; <code>TypeScript</code> <code>Gemini AI API</code> <code>Browser-native Processing</code></summary>
+<summary><b>🧬 SERA AI, Privacy-First Genetics Analysis</b> &nbsp; <code>TypeScript</code> <code>Gemini AI API</code> <code>Browser-native Processing</code></summary>
 <br/>
 
-- Runs entirely in-browser — genetic data never leaves the user's device.
+- Runs entirely in-browser, genetic data never leaves the user's device.
 - Delivers personalized drug recommendations and lifestyle insights, integrating Gemini-powered models to turn raw genetic data into readable, advanced interpretations.
 
 </details>
@@ -219,10 +218,10 @@ Gradient Boosting ensemble with automated hyperparameter search on multimodal da
 </details>
 
 <details>
-<summary><b>🔎 SageAI — Medical RAG Chatbot</b> &nbsp; <code>Python</code> <code>FAISS</code> <code>HuggingFace</code> <code>LangChain</code> <code>CUDA</code></summary>
+<summary><b>🔎 SageAI, Medical RAG Chatbot</b> &nbsp; <code>Python</code> <code>FAISS</code> <code>HuggingFace</code> <code>LangChain</code> <code>CUDA</code></summary>
 <br/>
 
-- Conversational AI that lets users chat directly with medical books and references — **95% query relevance** over a 637-page corpus via a FAISS vector search pipeline with dense NLU embeddings and CUDA-accelerated inference.
+- Conversational AI that lets users chat directly with medical books and references, reaching **95% query relevance** over a 637-page corpus via a FAISS vector search pipeline with dense NLU embeddings and CUDA-accelerated inference.
 
 </details>
 
@@ -256,17 +255,17 @@ Gradient Boosting ensemble with automated hyperparameter search on multimodal da
 
 | Organization | Role | Period | Highlights |
 |:---|:---|:---|:---|
-| **Outlier AI** | AI Engineer & LLM Evaluation Specialist | 2024 – Present | Promoted from Attempter to Reviewer · RLHF & prompt engineering across 5+ AI projects |
+| **Outlier AI** | AI Engineer & LLM Evaluation Specialist | 2024 to Present | Promoted from Attempter to Reviewer · RLHF & prompt engineering across 5+ AI projects |
 | **Freelance** | AI Developer & Automation Engineer | 2024 | 60% processing-time reduction · 500+ users served via Microsoft Power Platform |
-| **IEEE Galala** | AI & ML Instructor | 2023 – Present | 50+ students trained · 90% completion rate · 20+ mentored projects |
-| **ICPC Galala** | Programming Instructor | 2023 – Present | 40% ranking improvement through advanced algorithmic & competitive-programming training |
+| **IEEE Galala** | AI & ML Instructor | 2023 to Present | 50+ students trained · 90% completion rate · 20+ mentored projects |
+| **ICPC Galala** | Programming Instructor | 2023 to Present | 40% ranking improvement through advanced algorithmic & competitive-programming training |
 
 <br/>
 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-<!-- This section fills in automatically once the activity.yml workflow runs — see SETUP.md -->
+<!-- This section fills in automatically once the activity.yml workflow runs, see SETUP.md -->
 <!--END_SECTION:activity-->
 
 <br/>
@@ -275,7 +274,7 @@ Gradient Boosting ensemble with automated hyperparameter search on multimodal da
 
 <div align="center">
 
-<img src="metrics.svg" width="600" alt="Metrics dashboard"/>
+<img src="metrics.svg" width="520" alt="Metrics dashboard"/>
 
 </div>
 
@@ -288,6 +287,7 @@ Gradient Boosting ensemble with automated hyperparameter search on multimodal da
 </picture>
 
 </div>
+
 
 <br/>
 
@@ -307,7 +307,7 @@ Gradient Boosting ensemble with automated hyperparameter search on multimodal da
 
 ## Education
 
-**Galala University** — B.S. in Artificial Intelligence Engineering `10/2022 – 06/2027`
+**Galala University**, B.S. in Artificial Intelligence Engineering `10/2022 to 06/2027`
 Coursework: Advanced Machine Learning · Deep Learning · NLP · Computer Vision · Big Data Analytics
 
 <br/>
