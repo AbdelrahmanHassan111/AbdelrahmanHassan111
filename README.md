@@ -274,7 +274,7 @@ Gradient Boosting ensemble with automated hyperparameter search on multimodal da
 
 <div align="center">
 
-<img src="metrics.svg" width="100%" alt="Metrics dashboard"/>
+<img src="metrics.svg" width="720" alt="Metrics dashboard"/>
 
 </div>
 
